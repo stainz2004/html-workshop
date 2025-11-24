@@ -4,8 +4,7 @@ Kuidas mall välja näeb? [https://taltech-coding.github.io/html-workshop/](http
 
 Tegu on repoga, mida kasutatakse TalTechi veebilehe tegemise töötoas.
 
-Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe,
-millele lisame särtsu JavaScriptiga. Eelnev kogemus ei ole oluline,
+Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe. Eelnev kogemus ei ole oluline,
 kuid enne töötuba võiks teha endale [GitHubi](https://github.com/) kasutaja.
 
 ## Kuidas malli kasutada?
@@ -212,7 +211,7 @@ Leia endale youtube'st mõni teemakohane video, mida lehel näidata.
 
 - Sulle on antud väljas `iframe` asuval alal `src` link kujul: src="https://www.youtube.com/embed/WLT7TDGzXGU?si=z5_UTSHfVFkCDm6X"
 - Leia endale Youtube'st sobiv video
-- Võta oma Youtube video url-ist peale "=" olev osa ning asenda see etteantud lingi viimase osaga
+- Võta oma Youtube video url-ist peale "=" olev osa ning asenda see etteantud lingi viimase osaga peale "/"
 - Ehk kui sinu url on https://www.youtube.com/watch?v=bnmAi53H520 siis sa kasutad sellest "bnmAi53H520" osa
 </details>
 

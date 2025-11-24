@@ -173,7 +173,7 @@ Lisa väljas `img` asuvale `src` alale uue pildi asukoht.
 ```
 </details>
 
-### 7. Lõbusad faktid
+### 6. Lõbusad faktid
 
 <details>
 <summary>💡 Vihje 1</summary>
@@ -209,7 +209,7 @@ Lisa ülejäänud kaks faktikasti analoogselt näitele.
 ```
 </details>
 
-### 6. Video lisamine
+### 7. Video lisamine
 
 Leia endale youtube'st mõni teemakohane video, mida lehel näidata.
 

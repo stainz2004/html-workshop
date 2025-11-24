@@ -10,16 +10,17 @@ Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades üh
 
 1. Vajuta rohelise "Code" nuppu peale ja lae alla sealt projekt ZIP failina.
 ![tutorial1](tutorial_images/tutorial_image_1.png)
-2. Arvutis extracti see fail oma eelistatud asukohta.
+2. Arvutis extracti see fail oma eelistatud asukohta.                                                 
+![tutorial2](tutorial_images/tutorial_image_2.png)
 3. Ava Pycharm või mingi muu IDE. (See tutorial on Pycharmi põhjal, aga mujal peaksid asjad sarnaselt toimima)
 4. Pycharmis vali nüüd "open" ja ava just extractitud veebilehe kaust.
-![tutorial2](tutorial_images/tutorial_image_2.png)
-5. Nüüd oleme jõudnud PYCHARMI. Avame index.html faili vasakult.
 ![tutorial3](tutorial_images/tutorial_image_3.png)
-6. Sealt tekib meil nüüd võimalus oma veebilehte browseris näha!
+5. Nüüd oleme jõudnud PYCHARMI. Avame index.html faili vasakult.
 ![tutorial4](tutorial_images/tutorial_image_4.png)
-7. WOW, ongi sinu veebileht, mida nüüd muutma hakkad!
+6. Sealt tekib meil nüüd võimalus oma veebilehte browseris näha!
 ![tutorial5](tutorial_images/tutorial_image_5.png)
+7. WOW, ongi sinu veebileht, mida nüüd muutma hakkad!
+![tutorial6](tutorial_images/tutorial_image_6.png)
 
 
 ## Repos on:

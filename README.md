@@ -4,16 +4,23 @@ Kuidas mall välja näeb? [https://taltech-coding.github.io/html-workshop/](http
 
 Tegu on repoga, mida kasutatakse TalTechi veebilehe tegemise töötoas.
 
-Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe. Eelnev kogemus ei ole oluline,
-kuid enne töötuba võiks teha endale [GitHubi](https://github.com/) kasutaja.
+Selles töötoas saad teha endale ilusa veebilehe! Kujundame CSS-i kasutades ühe stiilse HTML veebilehe. Eelnev kogemus ei ole oluline.
 
 ## Kuidas malli kasutada?
 
-1. vali "Fork"
-![tutorial_img_1.png](tutorial_img_1.png)
-2. Saad ise lisada repository'le nime ning vajuta _create fork_
-![img.png](tutorial_img_2.png)
-3. Peale natukest laadimist peaks ette tulema sinu uus repo.
+1. Vajuta rohelise "Code" nuppu peale ja lae alla sealt projekt ZIP failina.
+![tutorial1](tutorial_images/tutorial_image_1.png)
+2. Arvutis extracti see fail oma eelistatud asukohta.
+3. Ava Pycharm või mingi muu IDE. (See tutorial on Pycharmi põhjal, aga mujal peaksid asjad sarnaselt toimima)
+4. Pycharmis vali nüüd "open" ja ava just extractitud veebilehe kaust.
+![tutorial2](tutorial_images/tutorial_image_2.png)
+5. Nüüd oleme jõudnud PYCHARMI. Avame index.html faili vasakult.
+![tutorial3](tutorial_images/tutorial_image_3.png)
+6. Sealt tekib meil nüüd võimalus oma veebilehte browseris näha!
+![tutorial4](tutorial_images/tutorial_image_4.png)
+7. WOW, ongi sinu veebileht, mida nüüd muutma hakkad!
+![tutorial5](tutorial_images/tutorial_image_5.png)
+
 
 ## Repos on:
 * index.html - veebilehe HTML mall

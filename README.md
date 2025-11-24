@@ -238,7 +238,7 @@ Leia endale youtube'st mõni teemakohane video, mida lehel näidata.
 </details>
 
 
-### 7. Lisainfo lisamine
+### 8. Lisainfo lisamine
 
 Vaadates malli `given_template.jpg` märkad, et seal on "lisainfo" ala.
 Sinna peaksime tekitama 3 linki, mis viivad mõnele teisele veebilehele.
